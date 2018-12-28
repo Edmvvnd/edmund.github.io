@@ -16,17 +16,18 @@ body{
   float: left;
   font-size: 20px;
   font-weight: bold;
+  margin-top: 50px;
 }
 
 #header-nav{
   display: block;
   float: right;
-  margin-top: 0;
+  margin-top: 50px;
 }
 
 #header-nav li{
   display: inline;
-  padding-left: 20px;
+  padding-left: 50px;
 }
 
 .container{
